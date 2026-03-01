@@ -1,0 +1,292 @@
+[
+  {
+    "name": "Stripe",
+    "stage_at_investment": "Series A",
+    "problem": "Online payments were too complex for developers — required integrating multiple banking partners, handling compliance, and writing thousands of lines of boilerplate code",
+    "solution": "7 lines of code to accept payments globally. Developer-first payment APIs that abstract away all banking complexity",
+    "traction": "$2M ARR, thousands of businesses processing payments, growing 20% month-over-month at Series A",
+    "market": "Global payments, $2T+ annual volume, every internet business needs this",
+    "founder_signal": "Patrick and John Collison, technical founders, prev YC W09, obsessive about developer experience",
+    "sequoia_thesis": "Developer infrastructure play with compounding network effects — every developer who learns Stripe becomes an advocate. High technical moat in compliance, banking relationships, and fraud detection. Category-defining API company."
+  },
+  {
+    "name": "Airbnb",
+    "stage_at_investment": "Series A",
+    "problem": "Hotels are expensive and impersonal; millions of homes and spare rooms sit empty while travelers overpay for generic experiences",
+    "solution": "Peer-to-peer marketplace for short-term home rentals — turns idle home equity into income for hosts, unique stays for guests",
+    "traction": "$1M ARR, 10,000+ listings across 100+ cities, supply growing 3x per month, strong NPS on both sides",
+    "market": "Global travel & hospitality, $500B+ market dominated by incumbents with high fixed costs",
+    "founder_signal": "Brian Chesky, Joe Gebbia, Nathan Blecharczyk — design-led founders who hustled first customers manually, incredible storytellers",
+    "sequoia_thesis": "Asset-light marketplace with powerful supply-demand network effects. Category creation in alternative accommodations. Founders with missionary zeal who manually scaled supply in each city."
+  },
+  {
+    "name": "DoorDash",
+    "stage_at_investment": "Series A",
+    "problem": "Local restaurants had no delivery infrastructure — losing customers to chains that could afford logistics. Consumers wanted restaurant delivery but options were limited to pizza",
+    "solution": "On-demand food delivery marketplace connecting consumers, restaurants, and dashers. Full-stack logistics layer for local commerce",
+    "traction": "$300K MRR, operating in 10+ cities, strong restaurant retention, growing order frequency per user",
+    "market": "US food delivery $200B+, local commerce logistics $1T+ globally",
+    "founder_signal": "Tony Xu, Stanley Tang, Andy Fang, Evan Moore — Stanford students who literally did deliveries themselves to understand operations",
+    "sequoia_thesis": "Winner-take-most logistics marketplace with supply density network effects. Founders with operational obsession who understand unit economics at block level. Path to owning local commerce infrastructure."
+  },
+  {
+    "name": "Zoom",
+    "stage_at_investment": "Series B",
+    "problem": "Video conferencing was broken — Cisco WebEx and Microsoft Lync were unreliable, hard to use, and required IT setup. Remote meetings were painful",
+    "solution": "Video-first communications platform that just works — no downloads required for guests, HD video, simple joining experience",
+    "traction": "$6M ARR at Series B, 400+ enterprise customers, 40% month-over-month growth, NPS of 70+ (vs competitors at <20)",
+    "market": "Enterprise communications $43B, every knowledge worker globally needs this",
+    "founder_signal": "Eric Yuan, ex-Cisco/WebEx engineering VP — built WebEx from 10 to 15,000 engineers, left to fix what he knew was broken",
+    "sequoia_thesis": "Category replacement in video communications led by the engineer who built the incumbent. Viral product-led growth where every meeting invites new users. Infrastructure moat in reliability and global data center optimization."
+  },
+  {
+    "name": "Snowflake",
+    "stage_at_investment": "Series A",
+    "problem": "Cloud data warehouses forced customers to choose between performance and cost. On-premise solutions like Teradata were expensive; cloud alternatives were slow or required DBAs to tune constantly",
+    "solution": "Cloud-native data warehouse that separates compute from storage — scale each independently, pay only for what you use, zero administration",
+    "traction": "$2M ARR, 80 enterprise customers, 150% net revenue retention — customers expand massively after initial deployment",
+    "market": "Enterprise data warehouse $15B growing to $100B+ as all data moves to cloud",
+    "founder_signal": "Benoit Dageville, Thierry Cruanes, Marcin Zukowski — database PhDs and engineers from Oracle who spent careers on this exact problem",
+    "sequoia_thesis": "Data platform with consumption-based model creating extreme land-and-expand dynamics. Network effects through data sharing marketplace. Deep technical moat in multi-cluster shared data architecture."
+  },
+  {
+    "name": "MongoDB",
+    "stage_at_investment": "Series B",
+    "problem": "Relational databases like Oracle and MySQL forced developers to model data in rigid tables — painful for modern apps with flexible, hierarchical data structures",
+    "solution": "Document-oriented database that stores data as flexible JSON-like documents. Matches how developers think about their data",
+    "traction": "$8M ARR, 1,000+ paying customers, millions of free users creating strong pipeline, 20% quarter-over-quarter growth",
+    "market": "Database market $50B+, every application needs a database, developer preference drives enterprise adoption",
+    "founder_signal": "Dwight Merriman, Eliot Horowitz — founders of DoubleClick (sold to Google for $3.1B), built MongoDB to solve their own scaling pain",
+    "sequoia_thesis": "Developer-first database riding shift from SQL to NoSQL. Free tier creates massive organic adoption that converts to enterprise. Deep open-source community creates defensibility against commercial alternatives."
+  },
+  {
+    "name": "Klarna",
+    "stage_at_investment": "Series A",
+    "problem": "Online checkout abandonment was 70%+ because consumers didn't want to enter credit card details or pay full price upfront for items they weren't sure about",
+    "solution": "Buy now, pay later at checkout — one-click purchase experience with flexible payment options. Merchants pay a fee; consumers get 0% financing",
+    "traction": "$5M ARR, 1,000+ merchants integrated, 500K consumers, Sweden's #1 payment method at many e-commerce sites",
+    "market": "Global e-commerce payments $5T+, consumer credit $1T+, massive incumbent displacement opportunity",
+    "founder_signal": "Sebastian Siemiatkowski, Niklas Adalberth, Victor Jacobsson — Stockholm School of Economics founders with deep consumer finance insight",
+    "sequoia_thesis": "Payments network that aligns merchant incentives (higher conversion) with consumer incentives (flexible payments). Two-sided network effects — more merchants drive consumer adoption and vice versa. Category creation in BNPL."
+  },
+  {
+    "name": "Instacart",
+    "stage_at_investment": "Series A",
+    "problem": "Grocery shopping consumes 1–2 hours per week per household. Grocers have no delivery capability; consumers want convenience but online grocery had failed repeatedly",
+    "solution": "On-demand grocery delivery in 1 hour via personal shoppers — asset-light model partnering with existing grocery chains",
+    "traction": "$1M MRR, operating in 5 cities, 60% repeat purchase rate within 30 days, grocers actively partnering (not just tolerating)",
+    "market": "US grocery $700B, only 3% online vs 15%+ in other retail — massive structural shift underway",
+    "founder_signal": "Apoorva Mehta, 20 failed startup ideas before this, ex-Amazon supply chain engineer who understood logistics deeply",
+    "sequoia_thesis": "Last-mile grocery logistics marketplace with supply-side density moats in each market. Network effects as shoppers specialize in specific stores. Strategic value to grocers who have no digital capability."
+  },
+  {
+    "name": "Plaid",
+    "stage_at_investment": "Series A",
+    "problem": "Fintech apps needed to connect to users' bank accounts to work, but bank APIs were nonexistent — developers had to use brittle screen-scraping that broke constantly",
+    "solution": "Universal API layer for bank connectivity — one integration to access account data from 11,000+ financial institutions",
+    "traction": "$3M ARR, 500+ fintech developers integrated, processing millions of connections, Venmo and Robinhood as reference customers",
+    "market": "Every fintech app needs bank connectivity — $30B+ developer infrastructure opportunity as financial services move to API-first",
+    "founder_signal": "Zach Perret, William Hockey — ex-Bain consultants who turned down Goldman offers to solve fintech infrastructure, obsessive about developer experience",
+    "sequoia_thesis": "Financial data infrastructure with near-monopoly network effects — the more fintechs use Plaid, the more banks prioritize supporting it. High switching costs once integrated. Inevitable as all financial services go digital."
+  },
+  {
+    "name": "Robinhood",
+    "stage_at_investment": "Series A",
+    "problem": "$7–$10 per trade commissions put retail investing out of reach for young, low-balance investors. Incumbent brokerages designed for wealthy customers",
+    "solution": "Commission-free stock trading app with consumer-grade UX — mobile-first, no minimums, instant account opening",
+    "traction": "1M+ person waitlist before launch, 100K+ funded accounts in first month, 90% under 30 years old",
+    "market": "US retail brokerage $35B revenue market. 200M Americans with no investment account — massive greenfield",
+    "founder_signal": "Vlad Tenev, Baiju Bhatt — Stanford roommates, built HFT infrastructure for hedge funds, understood market mechanics deeply",
+    "sequoia_thesis": "Category disruption via radical price reduction (zero commissions) creates mass market. Viral growth through referrals. Data and order flow economics enable profitability at scale. Generational brand for new investors."
+  },
+  {
+    "name": "WhatsApp",
+    "stage_at_investment": "Series A",
+    "problem": "International SMS was expensive ($0.10–$0.25 per message). Carrier messaging was slow, unreliable, and had no group functionality",
+    "solution": "Free messaging over data connection — cross-platform, minimal design, no ads, no games. Just messaging that works",
+    "traction": "250M monthly active users, 1B+ messages/day, growing 1M users/day, near-zero churn once contacts are on platform",
+    "market": "Global messaging — 5B+ mobile phone users, universal behavior, carrier messaging is a $100B revenue stream ripe for disruption",
+    "founder_signal": "Jan Koum, Brian Acton — ex-Yahoo engineers, Jan grew up in Soviet Ukraine understanding privacy's value, refused VC ads pressure for years",
+    "sequoia_thesis": "Pure network effects — value increases with every user added. Extreme product discipline (no ads ever) creates trust moat. International-first strategy captures markets US companies ignored."
+  },
+  {
+    "name": "YouTube",
+    "stage_at_investment": "Series A",
+    "problem": "Video content was trapped on hard drives and DVDs. Sharing video required massive files, technical knowledge, and proprietary formats. TV was the only distribution",
+    "solution": "Universal video hosting and sharing — upload once, watch anywhere, embeddable everywhere. Handles transcoding automatically",
+    "traction": "8M video views/day growing 100% monthly, 65,000 uploads/day, becoming default embed for blogs and news sites",
+    "market": "Video entertainment $150B TV advertising market, creator economy nascent but massive",
+    "founder_signal": "Chad Hurley, Steve Chen, Jawed Karim — ex-PayPal engineers who understood viral mechanics and scaling infrastructure",
+    "sequoia_thesis": "User-generated video platform with content supply and demand network effects. Every video uploaded draws viewers; viewer base draws creators. Infrastructure moat in global video delivery. Inevitable acquisition target for platform players."
+  },
+  {
+    "name": "Dropbox",
+    "stage_at_investment": "Series A",
+    "problem": "File sync across devices and backup was painful — USB drives, emailing files to yourself, and manual FTP were the alternatives. Losing files was common",
+    "solution": "Folder on your computer that syncs magically to all devices and the cloud. Invisible infrastructure that just works",
+    "traction": "100K beta users from one HN post, growing 3,900% in 15 months after referral launch, 70%+ weekly active usage",
+    "market": "Every computer user globally — 500M+ knowledge workers, expanding to teams and enterprise",
+    "founder_signal": "Drew Houston, Arash Ferdowsi — MIT engineers, Drew built it because he kept forgetting his USB drive, missionary passion for simplicity",
+    "sequoia_thesis": "Consumer viral growth converting to enterprise land-and-expand. File sync creates daily habit and extreme retention. Referral economics with negative net CAC. Path from personal storage to team collaboration."
+  },
+  {
+    "name": "Meraki (Cisco)",
+    "stage_at_investment": "Series A",
+    "problem": "Enterprise networking (WiFi, switches, firewalls) required expensive on-premise hardware AND expensive IT staff to configure and manage it. SMBs couldn't afford either",
+    "solution": "Cloud-managed networking hardware — enterprise-grade WiFi and switches managed entirely through a browser dashboard with zero on-site IT",
+    "traction": "$4M ARR, 500+ enterprise customers, hardware + SaaS hybrid with 75%+ gross margins on software component",
+    "market": "Enterprise networking $30B+ market, SMB and mid-market totally underserved by Cisco and Juniper",
+    "founder_signal": "Sanjit Biswas, John Bicket, Hans Robertson — MIT CSAIL PhD students who built mesh networking for One Laptop per Child",
+    "sequoia_thesis": "Cloud-first networking disrupts on-premise incumbents via price and simplicity. SaaS model on hardware creates recurring revenue with high switching costs. Acquisition target for networking giants lacking cloud management layer."
+  },
+  {
+    "name": "ServiceNow",
+    "stage_at_investment": "Series B",
+    "problem": "IT service management ran on email and spreadsheets or legacy on-premise software (Remedy) that cost millions and took years to implement. IT teams couldn't measure or improve their performance",
+    "solution": "Cloud-based IT service management platform — ticketing, asset management, workflows, all in one modern SaaS application",
+    "traction": "$15M ARR, 200+ enterprise customers including Fortune 500, 130% net revenue retention, replacing Remedy at major accounts",
+    "market": "IT operations software $25B, expanding to HR, legal, facilities — any workflow-heavy enterprise department",
+    "founder_signal": "Fred Luddy, former CTO of Peregrine Systems — spent 20 years in ITSM, built ServiceNow to fix everything he knew was broken",
+    "sequoia_thesis": "Workflow platform starting with IT and expanding horizontally across every enterprise department. Deep integration creates high switching costs. Negative churn as customers add modules. Category-defining enterprise platform."
+  },
+  {
+    "name": "Nubank",
+    "stage_at_investment": "Series A",
+    "problem": "Brazilian banking was an oligopoly of 5 banks charging 300%+ APR on credit cards, with terrible UX, massive fees, and customer service designed to frustrate",
+    "solution": "Digital-first credit card with no fees, mobile app with full control, transparent pricing, and human customer service",
+    "traction": "500K waitlist before launch, 100K customers in first 6 months, NPS of 87 vs -1 for incumbents, 40% of customers came via referrals",
+    "market": "Brazilian financial services $150B revenue, 60M unbanked or underbanked Brazilians, expanding across Latin America",
+    "founder_signal": "David Vélez, Cristina Junqueira, Edward Wible — ex-Goldman, ex-Itaú bank executives who deeply understood where incumbents were extracting value",
+    "sequoia_thesis": "Digital banking disruption in captured market with zero competitive response capability from incumbents (regulatory capture). NPS-driven viral growth with near-zero CAC. Expanding product surface from credit card to full financial OS."
+  },
+  {
+    "name": "Figma",
+    "stage_at_investment": "Series A",
+    "problem": "Design tools like Sketch were desktop-only and single-player — collaborating on designs required emailing files, commenting on screenshots, and endless version confusion",
+    "solution": "Browser-based collaborative design tool — multiple people in the same file in real-time, like Google Docs for design",
+    "traction": "$3M ARR, 150K designers, 80% retention at 12 months, viral growth as teams share files with stakeholders who then sign up",
+    "market": "Design tools $5B growing to $30B+ as design becomes core to every product company's competitive advantage",
+    "founder_signal": "Dylan Field, Evan Wallace — MIT and Brown engineers who spent 4 years building a WebGL rendering engine from scratch before launch",
+    "sequoia_thesis": "Collaboration multiplier that grows with team size — every designer who uses Figma becomes a distribution channel. Technical moat in browser-based rendering performance. Network effects as files shared externally convert new users."
+  },
+  {
+    "name": "Unity Technologies",
+    "stage_at_investment": "Series B",
+    "problem": "Building 3D games and interactive experiences required teams of 50+ engineers and millions in engine licensing fees — only large studios could create quality content",
+    "solution": "Democratized game engine — professional-grade 3D development tools accessible to indie developers and small studios, with cross-platform deployment",
+    "traction": "$20M ARR, 500K registered developers, powering 50%+ of mobile games on App Store, growing 60% year-over-year",
+    "market": "Game development tools $3B, but underlying opportunity is all interactive 3D experiences — $150B+ in games, simulation, architecture, film",
+    "founder_signal": "David Helgason, Nicholas Francis, Joachim Ante — Danish indie game developers who built the engine for themselves after struggling with existing tools",
+    "sequoia_thesis": "Creator platform with flywheel: more developers → more content → more players → more monetization → more developers. Asset store creates marketplace network effects. Expanding beyond games to enterprise simulation and AR/VR infrastructure."
+  },
+  {
+    "name": "Cohesity",
+    "stage_at_investment": "Series A",
+    "problem": "Enterprise data management was fragmented across dozens of backup, archive, test/dev, and analytics point solutions — creating 'dark data' sprawl and massive operational cost",
+    "solution": "Hyperconverged secondary storage — single platform consolidating backup, archive, files, and analytics on one scale-out system",
+    "traction": "$5M ARR, 50 enterprise customers (average $100K+ ACV), 90% gross margins, expanding to backup + analytics within same accounts",
+    "market": "Secondary storage market $10B+, data management software $30B — every large enterprise overspends on redundant data infrastructure",
+    "founder_signal": "Mohit Aron — co-founder and original architect of Google File System, then founder of Nutanix (took to $1B+ revenue), solving storage at third major company",
+    "sequoia_thesis": "Category consolidation play in enterprise storage led by the person who literally designed Google's distributed file system. High technical moat. Recurring revenue with extreme enterprise stickiness."
+  },
+  {
+    "name": "PagerDuty",
+    "stage_at_investment": "Series A",
+    "problem": "When production systems went down, on-call engineers had no reliable way to be alerted — SMS was unreliable, email was too slow, phone trees were manual and error-prone",
+    "solution": "Incident management and on-call alerting platform — routes alerts from any monitoring tool to the right engineer via smart escalation policies",
+    "traction": "$2M ARR, 500+ customers including Yelp and Etsy, 120%+ net revenue retention as teams add more services and users",
+    "market": "IT operations management $15B, every DevOps team globally needs incident response infrastructure",
+    "founder_signal": "Andrew Miklas, Baskar Puvanathasan, Alex Solomon — ex-Amazon AWS engineers who built alerting infrastructure internally and saw the gap for everyone else",
+    "sequoia_thesis": "Critical infrastructure for DevOps — high switching cost once pager policies and escalation rules are configured. Viral adoption as companies grow their engineering teams. Expands from alerting to full incident management platform."
+  },
+  {
+    "name": "Okta",
+    "stage_at_investment": "Series A",
+    "problem": "As enterprises adopted more SaaS apps (Salesforce, Workday, Box), managing separate logins for each became a security and productivity nightmare. IT had no visibility or control",
+    "solution": "Identity-as-a-service — single sign-on for all enterprise apps, multi-factor authentication, and lifecycle management from one cloud dashboard",
+    "traction": "$3M ARR, 150 enterprise customers, 125% net revenue retention as customers add users and integrate more apps",
+    "market": "Identity and access management $8B growing as SaaS adoption accelerates — every employee at every company needs this",
+    "founder_signal": "Todd McKinnon, Frederic Kerrest — ex-Salesforce SVP of Engineering (Todd built Salesforce from 300 to 3,000 engineers) and ex-Salesforce business development",
+    "sequoia_thesis": "Identity infrastructure that becomes more valuable as SaaS adoption grows — Okta benefits from every new SaaS app an enterprise adopts. Network effects through app integrations catalog. Highest-priority security infrastructure."
+  },
+  {
+    "name": "Natera",
+    "stage_at_investment": "Series B",
+    "problem": "Prenatal genetic testing required invasive amniocentesis with 1-in-200 miscarriage risk — most pregnant women couldn't safely access comprehensive genetic screening",
+    "solution": "Non-invasive prenatal testing via simple blood draw — analyzes fetal DNA fragments in maternal blood to screen for chromosomal abnormalities with >99% accuracy",
+    "traction": "$25M ARR, 200,000+ tests performed, reimbursement secured from major insurers, growing 80% year-over-year",
+    "market": "4M births/year in US alone, prenatal testing $1B growing to $3B+; expanding to oncology liquid biopsy $10B+",
+    "founder_signal": "Matthew Rabinowitz, Styrmir Sigurdsson — bioinformatics PhDs who published foundational research, 7+ years of scientific development before commercialization",
+    "sequoia_thesis": "Proprietary bioinformatics algorithms create deep technical moat in a highly regulated market with high barriers to entry. Sticky reimbursement relationships. Platform technology expanding from prenatal to cancer detection."
+  },
+  {
+    "name": "Veeva Systems",
+    "stage_at_investment": "Series A",
+    "problem": "Life sciences companies ran on Salesforce + massive customizations or legacy on-premise CRM — costing $50M+ to implement and requiring armies of consultants to maintain",
+    "solution": "Industry-specific cloud software for pharma and biotech — CRM, content management, and data built specifically for life sciences regulatory and commercial needs",
+    "traction": "$10M ARR, 50 pharma customers including top 20 global pharma, 140% net revenue retention, replacing Salesforce at major accounts",
+    "market": "Life sciences IT spending $15B annually — every pharma and biotech company globally needs commercial and regulatory software",
+    "founder_signal": "Peter Gassner — VP of Technology at Salesforce who saw the vertical opportunity, 25 years in enterprise software including PeopleSoft, built Veeva with deep industry insight",
+    "sequoia_thesis": "Vertical SaaS with regulatory-grade compliance moat — pharma companies cannot switch vendors easily due to FDA audit trails. Industry-specific data creates ecosystem lock-in. Founder knows both the technology and the industry."
+  },
+  {
+    "name": "HashiCorp",
+    "stage_at_investment": "Series A",
+    "problem": "DevOps teams managing multi-cloud infrastructure had no consistent way to provision, secure, and manage servers, networks, and secrets across AWS, Azure, and GCP",
+    "solution": "Open-source infrastructure automation tools — Terraform (provisioning), Vault (secrets), Consul (networking), Nomad (workload management)",
+    "traction": "$5M ARR, 3M+ Terraform downloads, 50K+ active open-source contributors, enterprise commercial adoption accelerating among companies with 500+ engineers",
+    "market": "Cloud infrastructure management $30B+ as multi-cloud becomes standard. Every large engineering team has this problem",
+    "founder_signal": "Mitchell Hashimoto, Armon Dadgar — core infrastructure engineers who built the tools for themselves, Terraform became de facto standard before commercial launch",
+    "sequoia_thesis": "Open-source flywheel — millions of free users create awareness, skills, and community that convert to enterprise. Terraform's dominance creates lock-in through HCL codebase investment. Multi-product platform across the DevOps workflow."
+  },
+  {
+    "name": "Guardant Health",
+    "stage_at_investment": "Series B",
+    "problem": "Cancer is most treatable when caught early, but screening requires invasive biopsies — limiting who gets tested and how often. Tumor biopsies also miss heterogeneity within a tumor",
+    "solution": "Liquid biopsy blood tests that detect cancer DNA fragments — Guardant360 guides treatment for advanced cancer; Shield screens for colorectal cancer from a blood draw",
+    "traction": "$40M ARR, 200+ biopharma partnerships, covered by major insurers for advanced cancer, FDA breakthrough designation for Shield",
+    "market": "Cancer diagnostics $15B, liquid biopsy potentially replacing $50B+ of traditional biopsy and imaging in long-term",
+    "founder_signal": "Helmy Eltoukhy, AmirAli Talasaz — Stanford electrical engineering PhDs who applied signal processing to genomics, 5 years of scientific foundation before launch",
+    "sequoia_thesis": "Platform technology with defensible IP across cancer detection and monitoring. Regulatory moats create 3–5 year competitive advantage windows. Recurring testing model as cancer becomes manageable chronic condition."
+  },
+  {
+    "name": "Faire",
+    "stage_at_investment": "Series A",
+    "problem": "Independent retailers couldn't risk buying wholesale inventory they didn't know would sell — minimum orders were $500-$5,000+ with no returns. Small brands had no way to reach retailers at scale",
+    "solution": "B2B wholesale marketplace with net-60 payment terms and free returns — retailers can try new brands risk-free; brands get distribution without a salesforce",
+    "traction": "$5M GMV/month, 5,000+ retailers, 500+ brands, 70% retailer retention month-over-month, growing 25% month-over-month",
+    "market": "US wholesale $1.5T+, independent retail $1T globally — entirely un-digitized, running on trade shows and cold calls",
+    "founder_signal": "Max Rhodes, Daniyar Naimanbayev, Marcelo Cortes, Jeff Kolovson — ex-Square leaders who understood SMB merchant dynamics and payment risk models",
+    "sequoia_thesis": "Two-sided marketplace with financial innovation (net-60 terms, free returns) that fundamentally changes risk dynamics for both sides. Supply-demand flywheel accelerates with each city and category. Data advantage improves inventory recommendations over time."
+  },
+  {
+    "name": "Samsara",
+    "stage_at_investment": "Series B",
+    "problem": "Industrial companies (trucking, construction, manufacturing) were running blind — no real-time visibility into fleet location, driver safety, equipment health, or operational efficiency",
+    "solution": "IoT platform for physical operations — GPS tracking, dashcams, sensor data, and workflow software in a single cloud platform for industrial companies",
+    "traction": "$20M ARR, 500+ enterprise customers, 145% net revenue retention as customers deploy more sensors and expand to new workflows",
+    "market": "Industrial IoT $200B+, fleet management alone $20B — every company with physical operations globally is a prospect",
+    "founder_signal": "Sanjit Biswas and John Bicket — same founders who built Meraki (sold to Cisco for $1.2B), pattern-matching on building hardware+software platforms for operational teams",
+    "sequoia_thesis": "Platform company in the physical economy with hardware-enabled data moat. Each sensor deployed generates proprietary operational data. Expansion from fleet to all physical operations creates massive platform opportunity."
+  },
+  {
+    "name": "Notion",
+    "stage_at_investment": "Series A",
+    "problem": "Knowledge workers used 5+ different tools for docs, wikis, tasks, and spreadsheets — each siloed, requiring constant context switching, with no single source of truth for team knowledge",
+    "solution": "All-in-one workspace — docs, databases, kanban, wikis, and tasks built on a flexible block-based editor that lets teams build custom workflows",
+    "traction": "$5M ARR, 500K users, 70% week-over-week retention for activated users, viral team growth as one member invites the whole company",
+    "market": "Productivity software $50B+, knowledge management $10B — every knowledge worker globally is a prospect",
+    "founder_signal": "Ivan Zhao, Simon Last — founders who spent 2 years rebuilding from scratch after nearly shutting down, obsessive product vision for 10+ years",
+    "sequoia_thesis": "Horizontal productivity platform with network effects — each team member who adopts creates more value for teammates and pulls in new users. Highly viral PLG with enterprise expansion. Sticky because teams encode their entire workflow in Notion."
+  },
+  {
+    "name": "OpenAI (early)",
+    "stage_at_investment": "Seed / Series A equivalent",
+    "problem": "AI research was concentrated in a few large tech companies, with safety research underfunded and capabilities advancing without adequate alignment work",
+    "solution": "Safety-focused AI research lab pursuing AGI for the benefit of humanity — open publication of research, development of foundation models",
+    "traction": "GPT-2 and GPT-3 scientific breakthroughs with massive organic developer adoption; 10B+ API calls before commercial launch; ChatGPT reached 100M users in 60 days",
+    "market": "AI is a general-purpose technology — infrastructure layer for every industry globally, $15T+ GDP impact potential",
+    "founder_signal": "Sam Altman, Greg Brockman, Ilya Sutskever, Elon Musk — combination of top AI researchers and proven operators, Ilya co-invented modern deep learning at Google Brain",
+    "sequoia_thesis": "Foundation model platform that could be the most consequential technology company ever built. Data and compute flywheel. Every new capability creates new markets. Winner-take-most dynamics in AI infrastructure."
+  }
+]

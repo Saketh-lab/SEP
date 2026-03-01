@@ -1,0 +1,252 @@
+[
+  {
+    "name": "Stripe",
+    "stage_at_investment": "Series A",
+    "problem": "Online payment infrastructure too complex",
+    "solution": "Developer-first payment APIs",
+    "traction": "$2M ARR, 100+ customers at Series A",
+    "market": "Payments, $2T+ TAM",
+    "founder_signal": "Collison brothers, prev YC founders, technical depth",
+    "sequoia_thesis": "API-first infrastructure play, high technical moat"
+  },
+  {
+    "name": "Airbnb",
+    "stage_at_investment": "Seed",
+    "problem": "Hotels are expensive and lack local authenticity",
+    "solution": "Marketplace for short-term home rentals",
+    "traction": "80,000 attendees targeted for DNC launch; early growth hack on Craigslist",
+    "market": "Travel and Hospitality, $500B+ market",
+    "founder_signal": "Brian Chesky & Joe Gebbia, design-centric, high-grit (sold cereal to fund)",
+    "sequoia_thesis": "Community-driven marketplace with global network effects"
+  },
+  {
+    "name": "DoorDash",
+    "stage_at_investment": "Series A",
+    "problem": "Local merchants lack delivery infrastructure",
+    "solution": "On-demand logistics platform for restaurants",
+    "traction": "Started with Palo Alto focus; rapid suburban density win",
+    "market": "Local Logistics, $100B+ TAM",
+    "founder_signal": "Tony Xu, operational obsession, customer-first culture",
+    "sequoia_thesis": "Efficiency-led logistics play focused on underserved suburban markets"
+  },
+  {
+    "name": "Snowflake",
+    "stage_at_investment": "Series B",
+    "problem": "Legacy data warehouses weren't built for the cloud",
+    "solution": "Cloud-native data platform with decoupled storage and compute",
+    "traction": "High product-market fit among enterprise data teams",
+    "market": "Cloud Data Warehousing, $80B+ market",
+    "founder_signal": "Former Oracle experts; later led by Frank Slootman",
+    "sequoia_thesis": "Architecture-first advantage in the migration to the cloud"
+  },
+  {
+    "name": "WhatsApp",
+    "stage_at_investment": "Series A",
+    "problem": "SMS is expensive and restricted to carriers",
+    "solution": "Cross-platform mobile messaging via data/internet",
+    "traction": "Millions of daily active users with zero marketing spend",
+    "market": "Global Communications, billions of users",
+    "founder_signal": "Jan Koum & Brian Acton, focus on simplicity and privacy",
+    "sequoia_thesis": "Viral utility platform with unprecedented user engagement"
+  },
+  {
+    "name": "Instacart",
+    "stage_at_investment": "Series A",
+    "problem": "Grocery shopping is time-consuming and manual",
+    "solution": "On-demand grocery delivery marketplace",
+    "traction": "Strong early adoption in high-density urban markets",
+    "market": "Grocery, $1T+ TAM",
+    "founder_signal": "Apoorva Mehta, logistical expertise, prev Amazon engineer",
+    "sequoia_thesis": "Asset-light logistics network for essential goods"
+  },
+  {
+    "name": "Vanta",
+    "stage_at_investment": "Seed/Series A",
+    "problem": "Security compliance (SOC 2) is manual and slow",
+    "solution": "Automated security monitoring and compliance platform",
+    "traction": "High demand from SaaS companies needing to sell to enterprise",
+    "market": "Security/Compliance, $20B+ market",
+    "founder_signal": "Christina Cacioppo, deep understanding of SaaS pain points",
+    "sequoia_thesis": "Category creator in automated trust and security infrastructure"
+  },
+  {
+    "name": "Nubank",
+    "stage_at_investment": "Series A",
+    "problem": "Banking in Brazil is bureaucratic and high-fee",
+    "solution": "Digital-first mobile banking without fees",
+    "traction": "Millions of waitlisted users; explosive growth in LATAM",
+    "market": "Fintech (LATAM), $100B+ opportunity",
+    "founder_signal": "David Vélez, local market expertise and strategic vision",
+    "sequoia_thesis": "Disruptive digital platform for unbanked and overcharged populations"
+  },
+  {
+    "name": "Anthropic",
+    "stage_at_investment": "Early Stage",
+    "problem": "AI models are becoming powerful but unreliable/unsafe",
+    "solution": "AI safety and research company building steerable models",
+    "traction": "Launch of Claude models; massive enterprise partnerships",
+    "market": "Artificial Intelligence, multi-trillion dollar TAM",
+    "founder_signal": "Dario Amodei, technical leadership from OpenAI roots",
+    "sequoia_thesis": "Safety-first approach is the prerequisite for enterprise AI adoption"
+  },
+  {
+    "name": "Linear",
+    "stage_at_investment": "Seed",
+    "problem": "Existing issue trackers (Jira) are slow and bloated",
+    "solution": "High-performance, keyboard-centric developer tools",
+    "traction": "Cult-like following among top engineering teams",
+    "market": "DevTools/Project Management, $5B+ market",
+    "founder_signal": "Karri Saarinen, former Airbnb/Coinbase design lead",
+    "sequoia_thesis": "Product-led growth driven by superior UX/DX"
+  },
+  {
+    "name": "Retool",
+    "stage_at_investment": "Series A",
+    "problem": "Building internal tools from scratch is repetitive and costly",
+    "solution": "Low-code platform for building internal applications",
+    "traction": "Broad adoption across engineering and ops teams",
+    "market": "Internal Tooling, $15B+ market",
+    "founder_signal": "David Hsu, highly technical, focused on developer productivity",
+    "sequoia_thesis": "The standard GUI for database and API interaction"
+  },
+  {
+    "name": "Klarna",
+    "stage_at_investment": "Early Stage",
+    "problem": "Online checkout friction and lack of consumer credit",
+    "solution": "Buy Now Pay Later (BNPL) and simplified payments",
+    "traction": "Dominance in European e-commerce markets",
+    "market": "Consumer Credit/Payments, $1T+ market",
+    "founder_signal": "Sebastian Siemiatkowski, vision for global retail banking",
+    "sequoia_thesis": "Removing transaction friction increases merchant conversion"
+  },
+  {
+    "name": "SpaceX",
+    "stage_at_investment": "Growth (2010)",
+    "problem": "Access to space is prohibitively expensive",
+    "solution": "Reusable rockets and vertically integrated aerospace",
+    "traction": "First private company to reach orbit; NASA contracts",
+    "market": "Aerospace and Satellite Internet, $1T+ long-term TAM",
+    "founder_signal": "Elon Musk, extreme ambition and engineering rigor",
+    "sequoia_thesis": "Fundamental cost reduction in launch enables new orbital economies"
+  },
+  {
+    "name": "Figma",
+    "stage_at_investment": "Series B",
+    "problem": "Design tools were offline, siloed, and non-collaborative",
+    "solution": "Browser-based, multiplayer design and prototyping",
+    "traction": "Rapid takeover of design teams from Adobe/Sketch",
+    "market": "Design & Collaboration, $10B+ market",
+    "founder_signal": "Dylan Field, visionary on web-based creative software",
+    "sequoia_thesis": "Multiplayer-first workflows are the future of all creative work"
+  },
+  {
+    "name": "Unity",
+    "stage_at_investment": "Series A",
+    "problem": "Game development is difficult and platform-specific",
+    "solution": "Cross-platform game engine and development tools",
+    "traction": "Became the engine for the majority of mobile games",
+    "market": "Gaming & Real-time 3D, $20B+ market",
+    "founder_signal": "David Helgason, focused on democratizing game dev",
+    "sequoia_thesis": "Horizontal platform play for the 3D content explosion"
+  },
+  {
+    "name": "Attentive",
+    "stage_at_investment": "Growth",
+    "problem": "Email marketing is saturated and has low engagement",
+    "solution": "Personalized SMS marketing platform for brands",
+    "traction": "Explosive revenue growth among e-commerce retailers",
+    "market": "Marketing Tech, $10B+ market",
+    "founder_signal": "Former TapCommerce founders, serial exit success",
+    "sequoia_thesis": "SMS is the next high-intent channel for consumer brands"
+  },
+  {
+    "name": "Blockaid",
+    "stage_at_investment": "Seed",
+    "problem": "Web3 is rife with fraud, phishing, and hacks",
+    "solution": "Security layer that validates transactions before execution",
+    "traction": "Integrated into major wallets (MetaMask) at launch",
+    "market": "Web3 Security, $5B+ market",
+    "founder_signal": "Israeli intelligence backgrounds (Unit 8200)",
+    "sequoia_thesis": "Infrastructure-level security is required for mass Web3 adoption"
+  },
+  {
+    "name": "Harvey",
+    "stage_at_investment": "Early Stage",
+    "problem": "Legal research and drafting are manual and expensive",
+    "solution": "AI-powered platform built for professional legal services",
+    "traction": "Partnerships with elite global law firms (PwC, A&O)",
+    "market": "Legal Tech, $20B+ market",
+    "founder_signal": "Winston & Gabriel, blend of legal and AI expertise",
+    "sequoia_thesis": "Generative AI applied to high-value knowledge work"
+  },
+  {
+    "name": "HubSpot",
+    "stage_at_investment": "Early Stage",
+    "problem": "Small businesses lack integrated marketing tools",
+    "solution": "Inbound marketing and CRM platform",
+    "traction": "High adoption in the mid-market SME segment",
+    "market": "CRM/Marketing SaaS, $40B+ market",
+    "founder_signal": "Dharmesh Shah & Brian Halligan, category creators",
+    "sequoia_thesis": "SMBs need a unified 'front-office' operating system"
+  },
+  {
+    "name": "Tessian",
+    "stage_at_investment": "Series A",
+    "problem": "Human error (misdirected emails) is a top security risk",
+    "solution": "Machine learning to prevent data breaches via email",
+    "traction": "Strong uptake in highly regulated financial/legal sectors",
+    "market": "Email Security, $10B+ market",
+    "founder_signal": "Imperial College engineers, focus on 'human layer' security",
+    "sequoia_thesis": "Modern security must focus on human behavior, not just code"
+  },
+  {
+    "name": "Weights & Biases",
+    "stage_at_investment": "Early Stage",
+    "problem": "ML experiments are hard to track, reproduce, and manage",
+    "solution": "Developer-first MLOps platform for tracking experiments",
+    "traction": "Used by top AI labs and enterprise ML teams",
+    "market": "MLOps, $10B+ market",
+    "founder_signal": "Lukas Biewald, founder of CrowdFlower, deep AI roots",
+    "sequoia_thesis": "The 'GitHub for Machine Learning'"
+  },
+  {
+    "name": "Nvidia",
+    "stage_at_investment": "Early Stage (1993)",
+    "problem": "PC graphics were slow and lacked 3D capability",
+    "solution": "The Graphics Processing Unit (GPU)",
+    "traction": "Initial wins in the gaming market; later AI dominance",
+    "market": "Semiconductors/Computing, Multi-trillion market",
+    "founder_signal": "Jensen Huang, visionary engineering leader",
+    "sequoia_thesis": "Accelerated computing will redefine all visual and data processing"
+  },
+  {
+    "name": "Palo Alto Networks",
+    "stage_at_investment": "Early Stage",
+    "problem": "Legacy firewalls were port-based, not app-aware",
+    "solution": "Next-generation firewalls that understand applications",
+    "traction": "Rapid replacement of legacy Cisco/Check Point hardware",
+    "market": "Cybersecurity, $50B+ market",
+    "founder_signal": "Nir Zuk, world-class security architect",
+    "sequoia_thesis": "Security needs to evolve to the application layer"
+  },
+  {
+    "name": "ServiceNow",
+    "stage_at_investment": "Early Stage",
+    "problem": "IT service management was stuck in clunky legacy software",
+    "solution": "Cloud-based IT workflow and service automation",
+    "traction": "Rapid displacement of BMC and HP in the enterprise",
+    "market": "ITSM/Enterprise Workflow, $50B+ market",
+    "founder_signal": "Fred Luddy, deep domain expertise and product focus",
+    "sequoia_thesis": "The 'Operating System' for the modern enterprise IT department"
+  },
+  {
+    "name": "Block (Square)",
+    "stage_at_investment": "Series B",
+    "problem": "Small merchants can't accept credit card payments easily",
+    "solution": "Mobile card reader and integrated POS software",
+    "traction": "Viral adoption among local cafes and small shops",
+    "market": "Merchant Acquiring/Fintech, $100B+ market",
+    "founder_signal": "Jack Dorsey, product-led visionary, prev Twitter",
+    "sequoia_thesis": "Democratizing financial services for the 'underserved' merchant"
+  }
+]

@@ -1,0 +1,31 @@
+Hi, we're EcoTrack. We help people track their carbon footprint.
+
+Problem:
+Climate change is bad and people don't know how much carbon they emit day-to-day. 
+There's no easy way to see your personal impact.
+
+Solution:
+Our app lets you log your daily activities — driving, flying, food choices, shopping — 
+and we calculate your carbon footprint automatically. You get personalized tips on how 
+to reduce your impact. We also have a social feature so you can compare with friends 
+and join challenges together.
+
+Traction:
+We launched on the App Store 3 months ago and have 2,000 downloads. 
+About 400 people used it more than once in the past month.
+We're at 0 revenue but thinking about a $4.99/month premium plan. 
+We've also had one company reach out about using us for employee sustainability programs.
+
+Market:
+Everyone cares about climate change. There are 8 billion people on Earth. 
+Even if we got 1% that's 80 million users at $4.99/month — that's $4.8B ARR.
+The sustainability software market is growing fast.
+
+Team:
+I'm a recent CS grad passionate about sustainability. My co-founder is 
+currently finishing her environmental science degree. Neither of us has 
+worked at a startup before but we're really committed to this.
+
+Ask:
+We're looking to raise $400K to hire a marketing person, improve the app's design, 
+and reach 10,000 users. We haven't decided on valuation yet.

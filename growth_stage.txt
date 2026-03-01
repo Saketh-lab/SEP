@@ -1,0 +1,67 @@
+DataMesh is the leading data mesh infrastructure platform for Fortune 500 companies.
+
+Problem:
+Large enterprises have data scattered across 50 to 200 internal data sources — data lakes, 
+warehouses, SaaS tools, legacy databases. Central data teams create catastrophic bottlenecks: 
+6 to 18 month wait times to get a new data product into production. Meanwhile, business 
+teams make decisions with stale or wrong data, and data engineers burn out managing hundreds 
+of ad hoc requests. Data governance and compliance become impossible at scale.
+
+Solution:
+DataMesh enables domain-driven data ownership — each business unit (Finance, Marketing, 
+Supply Chain, etc.) owns, publishes, and maintains its data as a product using our 
+standardized platform layer. A central governance layer automatically enforces data quality 
+SLAs, security policies, access controls, and compliance requirements (GDPR, HIPAA, SOC2) 
+without requiring a central data team to be involved in every decision.
+
+Customers reduce time-to-production for new data products from 8 months to 3 weeks. 
+Engineering hours spent on data governance drop 70%. Data quality incidents down 85%.
+
+Traction:
+- $28M ARR, growing 85% year-over-year (up from $15M ARR 12 months ago)
+- 45 enterprise customers including 6 of the Fortune 50
+- Average ACV: $620K (up from $380K 18 months ago as customers expand)
+- 158% net dollar retention — customers add 3-5 new business unit domains per year
+- $0 voluntary churn in 36 months of operation; one customer churned due to acquisition
+- 92% gross margins on software (excluding professional services)
+- $1.8M professional services revenue at 40% margin (included in total ARR figure)
+
+Unit Economics:
+- CAC: $185K (blended)
+- Payback period: 3.6 months
+- LTV: $2.1M (3-year contract average, 95% renewal rate)
+- LTV/CAC ratio: 11.4x
+
+Market:
+Data management, governance, and infrastructure software: $18B in 2024, growing to 
+$55B by 2028 per Gartner. Our ICP is companies with 5,000+ employees and 50+ data 
+sources — approximately 3,200 companies globally. We've penetrated 1.4% of that ICP.
+
+Competitive moat:
+- 18 months ahead of closest competitor (Atlan) in enterprise features
+- 3 patents on federated governance enforcement engine
+- Network effects: the more domains a customer connects, the more valuable the platform becomes
+- 6 SI partnerships (Deloitte, Accenture, KPMG) drive 40% of new business
+
+Team:
+CEO: Previously GM of Databricks' enterprise business — took it from $200M to $800M ARR 
+in 3 years. Managed 400 people.
+CTO: Founding engineer at Palantir, architect of their Foundry data platform.
+CRO: Previously VP Sales at Snowflake (pre-IPO), built the enterprise sales motion.
+85 total employees (60% technical, 25% GTM, 15% G&A).
+
+Funding to date:
+Raised $42M across seed, Series A ($8M, Accel), and Series B ($34M, Bessemer + Accel).
+Current ARR covers 14 months of operation at current burn ($1.8M/month).
+
+Ask:
+Raising $60M Series C at $420M post-money valuation (15x forward ARR).
+
+Use of proceeds:
+- International expansion: Open London and Singapore offices, hire 20 EMEA/APAC AEs (40%)
+- AI data product layer: Build LLM-powered data discovery and auto-documentation (30%)
+- Platform R&D: Real-time streaming data mesh, expanded connector library (20%)
+- G&A and working capital buffer (10%)
+
+Target close: 10 weeks
+Expected Series D trigger: $75M ARR, international revenue >25% of total

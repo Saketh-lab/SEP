@@ -1,0 +1,52 @@
+We're building Synthflow, an AI voice agent platform for enterprises.
+
+Problem:
+Customer service costs $50B/year in the US alone. Hiring, training, and retaining 
+call center agents is expensive and slow. Quality is inconsistent across reps, shifts, and 
+languages. Enterprise NPS for phone support averages -11. Most companies route 40-60% of 
+their call volume to offshore centers just to manage costs, sacrificing quality further.
+
+Solution:
+AI voice agents that sound human, handle complex multi-turn conversations, and integrate 
+natively with existing CRM systems (Salesforce, HubSpot, Zendesk). We use our own 
+proprietary speech models — not OpenAI TTS or ElevenLabs — achieving 180ms end-to-end 
+latency and $0.02/minute costs vs $1.20+ for human agents. Our agents handle 94% of calls 
+without escalation. We also provide a full analytics dashboard showing call transcripts, 
+sentiment, resolution rates, and agent performance benchmarking.
+
+Why now:
+Multimodal LLMs hit the quality threshold for voice in Q1 2024. We spent 18 months building 
+proprietary fine-tuned models for 12 industry verticals. Competitors using off-the-shelf 
+OpenAI are 3-4x our cost and 2x our latency.
+
+Traction:
+- $420K MRR, growing 30% month-over-month for 6 consecutive months
+- 14 enterprise customers (average ACV $36K; largest is $180K/year)
+- 87% gross margins
+- Customers report 62% cost reduction vs human agents
+- Net revenue retention: 143% — customers expand to new call queues within 90 days
+- 3 Fortune 500 companies in paid pilot ($25K/month each)
+- 2 pending patents on real-time speaker diarization and acoustic environment compensation
+
+Market:
+Global call center market is $500B/year, growing to $700B by 2028. US mid-market alone 
+is $80B. We're starting with customer service (SMB and mid-market), then expanding to 
+enterprise outbound sales calls and internal IT helpdesks. Our 5-year path reaches 15% 
+of the US mid-market — $12B total addressable market for us.
+
+Team:
+CEO: Previously scaled engineering at Twilio from 40 to 400 engineers over 4 years. 
+Led Twilio's Flex (contact center platform) go-to-market.
+CTO: Built Stripe's voice fraud detection system; ex-DeepMind speech researcher.
+Head of Sales: Previously AE #3 at Gong, closed $8M in ARR in 18 months.
+11 total employees, 8 engineers.
+
+Funding:
+Raised $3M seed from Kleiner Perkins 10 months ago. 18 months runway remaining.
+
+Ask:
+Raising $12M Series A to:
+- Double GTM team (4 AEs, 2 SDRs, 1 CS lead)
+- Expand to European mid-market (GDPR-compliant deployment already built)
+- Accelerate R&D on outbound calling capabilities (new product line)
+Target close: 8 weeks
