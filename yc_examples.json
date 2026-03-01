@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Airbnb",
+    "batch": "W09",
+    "problem": "Travelers struggle to find affordable, personal short-term housing; hosts have spare rooms generating no income",
+    "solution": "Two-sided marketplace where homeowners rent out their spaces to travelers",
+    "traction": "$200/week in revenue at application; grew to $1M+ ARR within 18 months of launch",
+    "market": "Global travel and hospitality, $500B+",
+    "founder_signal": "Ex-RISD designers with deep hustle — hand-delivered cereal boxes to first customers, personally photographed early listings to boost conversions"
+  },
+  {
+    "name": "Stripe",
+    "batch": "S09",
+    "problem": "Accepting payments online required weeks of bank integrations, complex APIs, and compliance overhead — effectively blocked developers from building commerce",
+    "solution": "7-line code snippet to accept payments on any website, handling all compliance and banking relationships",
+    "traction": "Launched to private beta; strong word-of-mouth among developers before public launch",
+    "market": "Global payments infrastructure, $1T+ in transaction volume",
+    "founder_signal": "Patrick and John Collison — teenage prodigies, prior successful startup exits, obsessive focus on developer experience"
+  },
+  {
+    "name": "DoorDash",
+    "batch": "S13",
+    "problem": "Local restaurants had no delivery infrastructure; customers couldn't get food from non-chain restaurants",
+    "solution": "On-demand food delivery marketplace connecting customers with local restaurants via contract drivers",
+    "traction": "Launched in Palo Alto, hit $1M GMV in first few months; strong repeat order rates",
+    "market": "US food delivery, $200B+ total addressable market",
+    "founder_signal": "Stanford students who did deliveries themselves first to understand every part of the operation before scaling"
+  },
+  {
+    "name": "Coinbase",
+    "batch": "S12",
+    "problem": "Buying Bitcoin was technically complex, risky, and inaccessible to non-technical users",
+    "solution": "Consumer-friendly exchange to buy, sell, and store cryptocurrency with a bank-like UX",
+    "traction": "$100K+ in transactions in first month; doubling MoM",
+    "market": "Cryptocurrency exchange and custody, now $3T+ market cap asset class",
+    "founder_signal": "Brian Armstrong had prior payments experience at Airbnb; deep conviction on crypto before it was mainstream"
+  },
+  {
+    "name": "Reddit",
+    "batch": "S05",
+    "problem": "No good aggregator for interesting links and community discussion across the internet",
+    "solution": "User-submitted link aggregator with voting and threaded comments organized by topic communities",
+    "traction": "Launched and gained thousands of daily active users within weeks via word of mouth",
+    "market": "Online media and social networking, multi-billion dollar advertising market",
+    "founder_signal": "Steve Huffman and Alexis Ohanian — fast builders who shipped and iterated rapidly; created fake accounts initially to seed content"
+  },
+  {
+    "name": "Twitch",
+    "batch": "W07",
+    "problem": "No dedicated platform for watching others play video games live; gaming streaming buried in general live video platforms",
+    "solution": "Livestreaming platform purpose-built for gaming with real-time chat and community features",
+    "traction": "Spun out of Justin.tv; millions of concurrent viewers before acquisition; dominant category market share",
+    "market": "Gaming and live entertainment streaming, $6B+ at time of acquisition",
+    "founder_signal": "Justin Kan pioneered lifecasting and pivoted aggressively when gaming vertical showed outsized engagement"
+  },
+  {
+    "name": "Dropbox",
+    "batch": "S07",
+    "problem": "File syncing across devices was painful — USB drives, email attachments, and FTP were the only options",
+    "solution": "Folder on your computer that automatically syncs to the cloud and all your devices",
+    "traction": "Famous waitlist video generated 75K signups overnight before product launched publicly",
+    "market": "Cloud storage and collaboration, $100B+ market",
+    "founder_signal": "Drew Houston built it to solve his own problem (forgot USB drive); deep technical founder with clear personal pain point"
+  },
+  {
+    "name": "GitLab",
+    "batch": "W15",
+    "problem": "Teams needed a self-hostable alternative to GitHub with built-in CI/CD and DevOps tools",
+    "solution": "Open-source, self-hosted git repository manager with integrated CI/CD, issue tracking, and DevOps pipeline",
+    "traction": "100K+ organizations using self-hosted version; strong open source community pre-YC",
+    "market": "DevOps tooling and software development platforms, $20B+",
+    "founder_signal": "Sid Sijbrandij and Dmitriy Zaporozhets — one business, one deeply technical; leveraged open source community for viral distribution"
+  },
+  {
+    "name": "Instacart",
+    "batch": "S12",
+    "problem": "Grocery shopping is time-consuming; no scalable same-day delivery option existed for major chains",
+    "solution": "On-demand grocery delivery using personal shoppers who pick orders at existing retail stores",
+    "traction": "Launched in San Francisco; strong early retention and repeat purchase rates among busy professionals",
+    "market": "US grocery market, $800B+",
+    "founder_signal": "Apoorva Mehta failed 20 startups before Instacart; obsessive persistence and supply chain background from Amazon"
+  },
+  {
+    "name": "Gusto",
+    "batch": "W12",
+    "problem": "Running payroll for small businesses required expensive accountants or clunky 1990s-era software",
+    "solution": "Modern, automated payroll, benefits, and HR platform built specifically for small businesses",
+    "traction": "Dozens of paying customers within weeks of launch; strong NPS from first users",
+    "market": "SMB payroll and HR software, $50B+",
+    "founder_signal": "Josh Reeves had deep empathy for small business owners — interviewed 100+ before writing a line of code"
+  },
+  {
+    "name": "Brex",
+    "batch": "W17",
+    "problem": "Startups couldn't get corporate credit cards — banks required personal guarantees and 2 years of history",
+    "solution": "Corporate card for startups with limits based on cash balance, not credit history; no personal guarantee required",
+    "traction": "$50M+ in annualized spend volume within 12 months of launch; raised $57M Series B",
+    "market": "Corporate cards and expense management, $1T+ in B2B spend",
+    "founder_signal": "Henrique Dubugras and Pedro Franceschi built a Stripe competitor in Brazil at age 16; strong prior fintech credibility"
+  },
+  {
+    "name": "Scale AI",
+    "batch": "S16",
+    "problem": "AI teams couldn't get high-quality labeled training data fast enough — manual labeling was slow and inconsistent",
+    "solution": "API for human-powered data labeling at scale, enabling AI teams to outsource annotation pipelines",
+    "traction": "Early contracts with Uber, Lyft, and OpenAI; rapid MoM revenue growth from launch",
+    "market": "AI training data and data infrastructure, $5B+ and expanding with AI boom",
+    "founder_signal": "Alexandr Wang — started at 19, one of the youngest Forbes billionaires; relentless focus on enterprise AI customers"
+  },
+  {
+    "name": "Retool",
+    "batch": "W17",
+    "problem": "Engineers spend weeks building internal tools (dashboards, admin panels, CRUD apps) that have no strategic value",
+    "solution": "Drag-and-drop builder for internal tools that connects to any database or API with minimal code",
+    "traction": "Hundreds of companies paying within first year; strong bottom-up adoption through engineering teams",
+    "market": "Internal tooling and low-code platforms, $20B+",
+    "founder_signal": "David Hsu identified the problem from personal experience as an engineer; deep focus on developer workflow"
+  },
+  {
+    "name": "PagerDuty",
+    "batch": "W10",
+    "problem": "On-call engineers had no reliable system for getting alerted to production incidents — email alerts were missed constantly",
+    "solution": "Incident management and alerting platform that pages the right person via SMS/call when systems go down",
+    "traction": "First paying customer within weeks; strong word-of-mouth among DevOps communities",
+    "market": "IT operations and incident management, $10B+",
+    "founder_signal": "Alex Solomon, Andrew Miklas, Baskar Puvanathasan — all ex-Amazon engineers who lived this problem in high-scale production environments"
+  },
+  {
+    "name": "Segment",
+    "batch": "S11",
+    "problem": "Every analytics and marketing tool required its own tracking code — adding Mixpanel, Google Analytics, and Salesforce meant 3 separate integrations",
+    "solution": "Single API to collect customer data once, then route it to any analytics or marketing tool",
+    "traction": "Thousands of developers using free tier; strong expansion to paid plans as teams scaled",
+    "market": "Customer data infrastructure and analytics, $10B+; acquired by Twilio for $3.2B",
+    "founder_signal": "Pivoted from a classroom analytics tool after discovering the data pipeline was the valuable part — classic YC pivot story"
+  },
+  {
+    "name": "Amplitude",
+    "batch": "W12",
+    "problem": "Product teams had no easy way to understand how users behaved inside their apps — Google Analytics was built for websites, not products",
+    "solution": "Product analytics platform enabling teams to track funnels, retention, and user journeys without SQL",
+    "traction": "Strong early adoption among mobile-first startups; hundreds of paying teams within 18 months",
+    "market": "Product analytics and digital optimization, $15B+",
+    "founder_signal": "Spenser Skates and Curtis Liu pivoted from a speech recognition startup and moved fast once they found product-market fit"
+  },
+  {
+    "name": "Flexport",
+    "batch": "W14",
+    "problem": "International freight forwarding was managed via email, phone, and fax — zero visibility into shipment status",
+    "solution": "Modern freight forwarder with software platform giving full visibility into global supply chains",
+    "traction": "$1M+ in bookings in first year; strong retention among e-commerce importers",
+    "market": "Global freight forwarding and logistics, $500B+",
+    "founder_signal": "Ryan Petersen had prior e-commerce import experience and deep empathy for the pain — wrote detailed essays on freight before building"
+  },
+  {
+    "name": "Rippling",
+    "batch": "S16 (as Zenefits alum)",
+    "problem": "Onboarding/offboarding employees required updating 10+ separate systems — payroll, IT, benefits, expenses — manually",
+    "solution": "Single platform to manage HR, IT, and Finance together, so adding an employee automatically provisions everything",
+    "traction": "Rapid enterprise growth; $11M ARR within 2 years of launch; strong NPS from ops teams",
+    "market": "HR, IT, and workforce management software, $50B+",
+    "founder_signal": "Parker Conrad built and sold Zenefits — controversial exit but rare second-time founder with deep domain expertise and credibility"
+  },
+  {
+    "name": "Benchling",
+    "batch": "S12",
+    "problem": "Biotech researchers managed experiments in paper notebooks and Excel — making collaboration and data reuse nearly impossible",
+    "solution": "Cloud-based lab notebook and R&D data platform built for life science teams",
+    "traction": "Adopted by hundreds of research labs; expanded to top pharma companies; strong bottom-up virality in academia",
+    "market": "Life science R&D software and lab informatics, $10B+",
+    "founder_signal": "Sajith Wickramasekara — MIT bio + CS background, built it to solve his own research pain; understood both the science and engineering"
+  },
+  {
+    "name": "Razorpay",
+    "batch": "W15",
+    "problem": "Indian businesses had no modern, developer-friendly payment gateway — existing options had poor APIs and weeks-long onboarding",
+    "solution": "Full-stack payments platform for India with clean APIs, instant onboarding, and support for all local payment methods",
+    "traction": "Thousands of businesses onboarded in first year; processing millions in monthly volume within 18 months",
+    "market": "Indian digital payments, $1T+ in annual transaction volume",
+    "founder_signal": "Harshil Mathur and Shashank Kumar — IIT background, deep knowledge of Indian banking infrastructure and regulatory landscape"
+  }
+]

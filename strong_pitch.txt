@@ -1,0 +1,36 @@
+We're building NeuralDB, a database that understands semantic meaning.
+
+Problem: Traditional databases are dumb. They only match exact strings. If a customer asks "show me comfortable shoes for running," a normal database can't understand that "running shoes" and "athletic footwear" are related. E-commerce sites lose 40% of potential sales because search and recommendations fail.
+
+Solution: We've built the first database with language models built in. Queries are semantic, not just keyword matching. Developers can say "find products similar to X" and our DB understands context, synonyms, and relationships without any manual tagging.
+
+Technical Moat: We built this from scratch - not OpenAI wrappers. Our custom vector + graph hybrid architecture runs 100x faster than Pinecone or Weaviate on complex queries. We use quantization and custom CUDA kernels. All queries under 50ms at billion-record scale. We have 3 patents pending on our indexing approach.
+
+Network Effects: Every query improves our semantic understanding. When Retailer A searches for "winter boots," Retailer B's similar products rank better. Shared embeddings across customers create a collective intelligence. More data = better understanding = more customers.
+
+Traction: $3M ARR, 40 customers including 3 Fortune 500 companies. Growing 35% month-over-month. Avg contract: $75K/year. NRR 150% - customers expand as they see results. One customer increased conversion 2.3x after switching from Elasticsearch.
+
+Platform Potential: We're becoming the infrastructure layer for AI-native applications. Developers are building:
+- Semantic search engines
+- Recommendation systems  
+- Chatbots that query company data
+- Auto-categorization systems
+
+10+ open source projects already integrate with us. We have a plugin ecosystem launching next quarter.
+
+Market: $50B database market + $100B search/recommendations market. Every application that processes text or images will need semantic understanding. We're the Postgres of the AI era.
+
+Team: 
+- I'm ex-Google Brain, built ranking systems for Search
+- Co-founder was lead DB engineer at MongoDB
+- 3rd co-founder ran ML infra at Meta
+We have 22 people, 18 engineers. Raised $5M seed from Kleiner Perkins 18 months ago.
+
+Vision: In 5 years, keyword search will seem as archaic as command-line interfaces. Every database will understand meaning, not just match strings. We're building that future.
+
+Raising Series A to:
+1. Scale infrastructure (10x query volume)
+2. Expand GTM team (3 AEs → 15)
+3. Launch multi-modal support (images + text)
+
+Our contrarian insight: People think you need massive LLMs for semantic search. We proved you can do it with specialized, efficient models at database scale. We're 1/10th the cost of alternatives.

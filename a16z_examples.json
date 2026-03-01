@@ -1,0 +1,302 @@
+[
+  {
+    "name": "Coinbase",
+    "stage_at_investment": "Series B",
+    "problem": "Buying cryptocurrency too complex for mainstream users",
+    "solution": "Simple, trusted exchange for buying/selling crypto",
+    "traction": "1M users, $20M revenue run rate at Series B",
+    "market": "Cryptocurrency exchange, potential for billions of users",
+    "founder_signal": "Brian Armstrong, ex-Airbnb, technical founder with clear vision for crypto adoption",
+    "a16z_thesis": "Crypto will be as big as the internet. Coinbase is the on-ramp. Strong network effects as liquidity attracts more users. Platform for the decentralized economy."
+  },
+  {
+    "name": "GitHub",
+    "stage_at_investment": "Series A",
+    "problem": "Developers need better collaboration tools for code",
+    "solution": "Social network for code with Git version control",
+    "traction": "100K developers, fastest growing developer platform",
+    "market": "50M+ developers globally, core infrastructure for software",
+    "founder_signal": "Tom Preston-Werner, Chris Wanstrath - open source leaders",
+    "a16z_thesis": "Developer tools with network effects. Every new project makes GitHub more valuable. Software eating world means developers become most important profession."
+  },
+  {
+    "name": "Instacart",
+    "stage_at_investment": "Series A",
+    "problem": "Grocery shopping is time-consuming, delivery options limited",
+    "solution": "On-demand grocery delivery from local stores",
+    "traction": "$10M GMV run rate, operating in 10 cities",
+    "market": "$800B grocery market in US alone",
+    "founder_signal": "Apoorva Mehta, ex-Amazon engineer, tried 20 ideas before finding PMF",
+    "a16z_thesis": "Marketplace with strong network effects. More shoppers attract more stores. Last-mile logistics platform that can expand beyond groceries."
+  },
+  {
+    "name": "Airbnb",
+    "stage_at_investment": "Series B",
+    "problem": "Hotels expensive, travel experiences too standardized",
+    "solution": "Marketplace for unique local stays",
+    "traction": "$200M GMV, 500K listings globally",
+    "market": "$500B+ travel and hospitality",
+    "founder_signal": "Brian Chesky, Joe Gebbia - designers who hustled through early days",
+    "a16z_thesis": "Two-sided marketplace with massive network effects. Trust and brand moat. Category creation - not competing with hotels, creating new category."
+  },
+  {
+    "name": "Slack",
+    "stage_at_investment": "Series C",
+    "problem": "Email is broken for team communication",
+    "solution": "Real-time messaging platform for work",
+    "traction": "$25M ARR, 1M daily active users, fastest-growing SaaS ever",
+    "market": "Communication tool for every knowledge worker globally",
+    "founder_signal": "Stewart Butterfield, built Flickr, gaming background",
+    "a16z_thesis": "Bottom-up adoption with viral growth. Strong network effects within orgs. Platform play - developers build on Slack. New UI paradigm for work."
+  },
+  {
+    "name": "Oculus VR",
+    "stage_at_investment": "Series B",
+    "problem": "VR hardware too expensive and low quality",
+    "solution": "High-quality, affordable VR headsets",
+    "traction": "Kickstarter raised $2.4M, dev kits shipping",
+    "market": "VR/AR could be next computing platform after mobile",
+    "founder_signal": "Palmer Luckey, teenage hardware hacker, obsessed with VR",
+    "a16z_thesis": "Contrarian bet on VR when everyone said it was dead. Hardware enabling entirely new platform. If VR is next platform, Oculus is the iPhone."
+  },
+  {
+    "name": "Databricks",
+    "stage_at_investment": "Series A",
+    "problem": "Processing big data too complex, expensive",
+    "solution": "Unified analytics platform built on Apache Spark",
+    "traction": "50+ enterprise customers, open source Spark growing rapidly",
+    "market": "Big data analytics, $50B+ market",
+    "founder_signal": "Original creators of Apache Spark from Berkeley",
+    "a16z_thesis": "Open source community creates moat. Every Fortune 500 will need unified data platform. Technical founders who invented the underlying tech."
+  },
+  {
+    "name": "Lyft",
+    "stage_at_investment": "Series B",
+    "problem": "Taxis expensive, unreliable, limited supply",
+    "solution": "Peer-to-peer ridesharing network",
+    "traction": "$250M GMV run rate, 30% month-over-month growth",
+    "market": "$100B+ ground transportation market in US",
+    "founder_signal": "Logan Green, John Zimmer - second-time founders with Zimride",
+    "a16z_thesis": "Two-sided marketplace with strong local network effects. More riders attract more drivers. Potential to displace car ownership entirely."
+  },
+  {
+    "name": "Pinterest",
+    "stage_at_investment": "Series A",
+    "problem": "Hard to organize and discover visual inspiration",
+    "solution": "Visual discovery and bookmarking platform",
+    "traction": "10M users, fastest consumer site to reach this milestone",
+    "market": "Visual search and shopping, billions of potential users",
+    "founder_signal": "Ben Silbermann, built multiple products before finding PMF",
+    "a16z_thesis": "Unique approach to visual content. High-intent users (planning purchases). Network effects through shared boards. Platform for visual commerce."
+  },
+  {
+    "name": "Stripe",
+    "stage_at_investment": "Series B",
+    "problem": "Online payments too complex for developers",
+    "solution": "Developer-first payment infrastructure",
+    "traction": "$50M payments processed, thousands of businesses",
+    "market": "Global payments, trillions in transaction volume",
+    "founder_signal": "Collison brothers, technical founders who understand developers",
+    "a16z_thesis": "Infrastructure for internet economy. Platform with network effects. Technical moat. Every startup will need payments - Stripe becomes default."
+  },
+  {
+    "name": "Roblox",
+    "stage_at_investment": "Series B",
+    "problem": "Game development too hard for kids, gaming too passive",
+    "solution": "Platform where kids create and play games",
+    "traction": "5M monthly users, user-generated content growing exponentially",
+    "market": "Gaming + creativity, Gen Z native platform",
+    "founder_signal": "David Baszucki, PhD, 20+ years building physics engines",
+    "a16z_thesis": "UGC platform with massive network effects. Creators attract players attract creators. New type of social network. Future of play."
+  },
+  {
+    "name": "OpenSea",
+    "stage_at_investment": "Series A",
+    "problem": "No good marketplace for NFTs",
+    "solution": "eBay for digital collectibles and NFTs",
+    "traction": "$20M monthly volume, 50K users",
+    "market": "Digital ownership economy, potentially trillions",
+    "founder_signal": "Devin Finzer, Alex Atallah - crypto-native builders",
+    "a16z_thesis": "Crypto-native marketplace. NFTs enable digital property rights. Network effects - more buyers attract sellers. Infrastructure for metaverse economy."
+  },
+  {
+    "name": "Clubhouse",
+    "stage_at_investment": "Series A",
+    "problem": "Social media is too performative, asynchronous",
+    "solution": "Drop-in audio conversations",
+    "traction": "600K users, invitation-only waitlist of 1M+",
+    "market": "Social audio, new format for human connection",
+    "founder_signal": "Paul Davison (founder of Highlight), Rohan Seth",
+    "a16z_thesis": "New social primitive. Audio is intimate, high-bandwidth. Network effects through invite graph. Contrarian bet on voice-first social."
+  },
+  {
+    "name": "PagerDuty",
+    "stage_at_investment": "Series A",
+    "problem": "IT teams have no good way to manage incidents",
+    "solution": "Incident management platform for DevOps",
+    "traction": "$5M ARR, 2K customers, 40% QoQ growth",
+    "market": "DevOps tools for millions of developers and IT teams",
+    "founder_signal": "Alex Solomon - technical founder who felt the pain at Amazon",
+    "a16z_thesis": "Mission-critical infrastructure. Network effects as integrations grow. Developer-friendly product in massive market."
+  },
+  {
+    "name": "Samsara",
+    "stage_at_investment": "Series B",
+    "problem": "Physical operations have no visibility or data",
+    "solution": "IoT platform for tracking vehicles, equipment, sites",
+    "traction": "$50M ARR, 5K customers across logistics/construction/manufacturing",
+    "market": "Industrial IoT, $100B+ opportunity",
+    "founder_signal": "Sanjit Biswas, John Bicket - founded Meraki (sold to Cisco for $1.2B)",
+    "a16z_thesis": "Software eating physical operations. Platform approach with strong network effects. Proven founders. Massive greenfield market."
+  },
+  {
+    "name": "Figma",
+    "stage_at_investment": "Series A",
+    "problem": "Design tools still desktop-based, poor collaboration",
+    "solution": "Browser-based collaborative design tool",
+    "traction": "100K users, 30% month-over-month growth, bottoms-up adoption",
+    "market": "Design tools for 10M+ designers globally",
+    "founder_signal": "Dylan Field - 20 years old, Thiel Fellow, obsessed with design tools",
+    "a16z_thesis": "Cloud-native design tool with multiplayer collaboration. Network effects through shared files. Platform potential as plugins ecosystem grows."
+  },
+  {
+    "name": "Tanium",
+    "stage_at_investment": "Series A",
+    "problem": "Enterprise security teams can't see their endpoints",
+    "solution": "Real-time endpoint visibility and control at scale",
+    "traction": "$20M ARR, DOD and Fortune 500 customers",
+    "market": "Endpoint security, $10B+ market",
+    "founder_signal": "Orion Hindawi, David Hindawi - father-son team, decades in security",
+    "a16z_thesis": "Technical breakthrough - linear scale vs exponential. Mission-critical for largest orgs. Land-and-expand in security."
+  },
+  {
+    "name": "Rippling",
+    "stage_at_investment": "Series A",
+    "problem": "HR systems fragmented, lots of manual work",
+    "solution": "All-in-one platform for HR, IT, and finance",
+    "traction": "$10M ARR, 1K customers, 3x YoY growth",
+    "market": "SMB software, every company needs HR/IT tools",
+    "founder_signal": "Parker Conrad - founded Zenefits, learned from mistakes",
+    "a16z_thesis": "Compound startup across HR/IT/Finance. Network effects through integrations. Platform approach captures more value as companies grow."
+  },
+  {
+    "name": "Carta",
+    "stage_at_investment": "Series A",
+    "problem": "Managing cap tables is painful, opaque",
+    "solution": "Cap table management and equity platform",
+    "traction": "5K companies using platform, strong retention",
+    "market": "Private markets infrastructure, millions of companies",
+    "founder_signal": "Henry Ward - finance background, technical execution",
+    "a16z_thesis": "Network effects as more companies join. Platform for private markets. Potential to become NASDAQ for private companies."
+  },
+  {
+    "name": "Calm",
+    "stage_at_investment": "Series A",
+    "problem": "Mental health crisis, meditation hard to access",
+    "solution": "Meditation and sleep app",
+    "traction": "1M users, top-grossing app in health category",
+    "market": "Wellness and mental health, $1T+ market",
+    "founder_signal": "Michael Acton Smith, Alex Tew - serial entrepreneurs",
+    "a16z_thesis": "Consumer subscription business with strong retention. Category creation in digital wellness. Content moat and brand."
+  },
+  {
+    "name": "Helium",
+    "stage_at_investment": "Series A",
+    "problem": "IoT networks expensive to deploy and operate",
+    "solution": "Decentralized wireless network for IoT devices",
+    "traction": "100+ hotspots deployed, crypto-economic model working",
+    "market": "IoT connectivity, billions of devices need networks",
+    "founder_signal": "Amir Haleem, Shawn Fanning (Napster founder) - deep wireless expertise",
+    "a16z_thesis": "Crypto-economic incentives create distributed infrastructure. Network effects - more hotspots improve coverage. New model for physical infrastructure."
+  },
+  {
+    "name": "Retool",
+    "stage_at_investment": "Series A",
+    "problem": "Building internal tools takes too long",
+    "solution": "Low-code platform for internal applications",
+    "traction": "$5M ARR, 1K companies, strong product-led growth",
+    "market": "Internal tools for every company with developers",
+    "founder_signal": "David Hsu - technical founder who felt the pain at Venmo",
+    "a16z_thesis": "Developer-first low-code. Bottoms-up adoption. Network effects through component sharing. Massive TAM as every company needs internal tools."
+  },
+  {
+    "name": "Benchling",
+    "stage_at_investment": "Series A",
+    "problem": "Life science R&D stuck with paper notebooks and Excel",
+    "solution": "Cloud platform for biotech R&D and data management",
+    "traction": "200+ biotech/pharma customers, mission-critical workflows",
+    "market": "Life science software, $10B+ opportunity",
+    "founder_signal": "Sajith Wickramasekara, Ashu Singhal - MIT bio + CS backgrounds",
+    "a16z_thesis": "Software eating biotech. Network effects through shared protocols. Platform for entire drug discovery process."
+  },
+  {
+    "name": "Cruise",
+    "stage_at_investment": "Series A",
+    "problem": "Self-driving car technology needs to advance",
+    "solution": "Full-stack autonomous vehicle technology",
+    "traction": "Prototype vehicles driving in SF, technical milestones hit",
+    "market": "Autonomous vehicles, $10T+ impact on transportation",
+    "founder_signal": "Kyle Vogt - founded Twitch, hardware + software expertise",
+    "a16z_thesis": "Bold technical vision. Self-driving will transform transportation. First-mover advantage with real-world data. Platform potential."
+  },
+  {
+    "name": "Lookout",
+    "stage_at_investment": "Series A",
+    "problem": "Mobile devices have no security",
+    "solution": "Mobile security platform for enterprises",
+    "traction": "1M users, enterprise traction, freemium model working",
+    "market": "Mobile security, billions of devices need protection",
+    "founder_signal": "John Hering, Kevin Mahaffey, James Burgess - security experts",
+    "a16z_thesis": "Mobile-first security as smartphones become primary computing device. Network effects through threat intelligence. Critical enterprise need."
+  },
+  {
+    "name": "Honor",
+    "stage_at_investment": "Series A",
+    "problem": "Home care for seniors is fragmented, low quality",
+    "solution": "Managed marketplace for senior home care",
+    "traction": "Operating in 5 cities, 1K caregivers, strong NPS",
+    "market": "Senior care, $100B+ market with aging demographics",
+    "founder_signal": "Seth Sternberg - founder of Meebo, passionate about elder care",
+    "a16z_thesis": "Marketplace with supply-side focus. Network effects in local markets. Massive, underserved market with demographic tailwinds."
+  },
+  {
+    "name": "Dialpad",
+    "stage_at_investment": "Series B",
+    "problem": "Business phone systems stuck in past, no intelligence",
+    "solution": "Cloud phone system with built-in AI",
+    "traction": "$30M ARR, 20K businesses, AI transcription + insights",
+    "market": "Business communications, replacing legacy PBX",
+    "founder_signal": "Craig Walker - founded GrandCentral (became Google Voice)",
+    "a16z_thesis": "Voice infrastructure with AI layer. Network effects through shared intelligence. Platform for business communications."
+  },
+  {
+    "name": "Substack",
+    "stage_at_investment": "Series A",
+    "problem": "Writers dependent on platforms, hard to monetize",
+    "solution": "Newsletter platform with built-in payments",
+    "traction": "10K paid newsletters, $50M annualized subscriber revenue",
+    "market": "Creator economy, millions of writers globally",
+    "founder_signal": "Chris Best, Hamish McKenzie, Jairaj Sethi - media + product backgrounds",
+    "a16z_thesis": "Unbundling media. Network effects through discovery + recommendations. Platform empowers creators to own audience."
+  },
+  {
+    "name": "Plaid",
+    "stage_at_investment": "Series A",
+    "problem": "Fintech apps can't easily connect to bank accounts",
+    "solution": "API infrastructure for financial services",
+    "traction": "1K fintech companies integrated, millions of connections",
+    "market": "Fintech infrastructure, powering future of finance",
+    "founder_signal": "Zach Perret, William Hockey - engineers who felt the pain",
+    "a16z_thesis": "Infrastructure layer for fintech. Network effects - more banks + apps create more value. Platform enables entire ecosystem."
+  },
+  {
+    "name": "Notion",
+    "stage_at_investment": "Series A",
+    "problem": "Work tools too fragmented - docs, wikis, tasks separate",
+    "solution": "All-in-one workspace for notes, docs, wikis, projects",
+    "traction": "1M users, viral organic growth, passionate community",
+    "market": "Productivity software, everyone who works on computer",
+    "founder_signal": "Ivan Zhao - designer/engineer who spent years perfecting product",
+    "a16z_thesis": "New paradigm for work software. Network effects through shared workspaces. Platform with blocks/integrations. Strong community moat."
+  }
+]
